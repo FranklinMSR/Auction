@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7CE3E473-66D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{795EEF03-AFAD-470C-95CC-B4CE93EE1BD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Action.API", "src\Action.API\Action.API.csproj", "{6737E1D3-154C-47FD-9458-16B0A10EA339}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Auction.API", "src\Action.API\Auction.API.csproj", "{6737E1D3-154C-47FD-9458-16B0A10EA339}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
